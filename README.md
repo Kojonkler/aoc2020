@@ -1,3 +1,3 @@
 # Progress
 
-![3/25](https://progress-bar.dev/12)
+![12](https://progress-bar.dev/12/?title=progress)
